@@ -192,6 +192,7 @@ header nav ul li a:hover {
 }
 
 }
+/*added extra media query because I could not figure out how to fix the logo not sizing right*/
 @media all and (min-width: 480px) and (max-width: 650px) {
   .logo {
     font-family: "Tangerine", cursive;
